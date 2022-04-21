@@ -7,10 +7,7 @@
 }
 body {
     background-image:url("img/IMG_20220330_071924.jpg");
-    background-position:center center;
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat:no-repeat ;
+    width:100%;
     object-fit:cover;
 }
 .titulo {
@@ -26,7 +23,7 @@ body {
     margin:auto ;
     margin-top:100px;
     border-radius:10px;
-    opacity:0.7;
+    opacity:0.9;
 }
 p {
     padding:5px;
