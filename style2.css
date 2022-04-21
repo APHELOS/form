@@ -58,7 +58,6 @@ select {
     font-size:15px;
     border-left:20px solid #e44f9c;
     border-right:20px solid #e44f9c;
-    transition: all .3s ease;
 }
 .btn {
     display:inline-block ;
